@@ -1,0 +1,6 @@
+id,title,description,tag,url,featured,date_added
+1,MCP Servers are transforming how I build AI workflows,Model Context Protocol lets Claude connect to GitHub + Notion + Slack + databases. Built custom MCPs for our mobile release pipeline. The time savings are genuinely insane.,AI Infrastructure,,Yes,2026-05-01
+2,Claude Code for full agentic feature development,Not just autocomplete — Claude Code can take a task file and build entire features autonomously. Game changer for productivity.,Tool Insight,https://www.youtube.com/watch?v=3PdorDOn6xI,No,2026-05-01
+3,Mastery-level Claude Code setup,The definitive guide to setting up Claude Code for maximum output — hooks + memory + task files.,Setup Guide,https://www.youtube.com/watch?v=zW28e7LGPRQ,No,2026-04-20
+4,Complete n8n + MCP automation flow,End-to-end walkthrough — connect Claude to n8n workflows using MCP. Automate entire processes.,Automation,https://www.youtube.com/watch?v=xf2i6Acs1mI,No,2026-04-15
+5,Use top-class design in Cursor apps,How to ship world-class UI inside Cursor using design references and AI.,Design + Dev,https://www.youtube.com/watch?v=djDZHAi75dk,No,2026-04-10

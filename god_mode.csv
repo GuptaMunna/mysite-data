@@ -1,0 +1,11 @@
+id,title,description,unlocks,url,category
+1,roadmap.sh,Structured learning paths for any tech skill,Learn anything with a plan,https://roadmap.sh,Learn
+2,All Claude MCPs,Every MCP server for Claude in one indexed place,Supercharge Claude with tools,https://glama.ai/mcp/servers,AI Tools
+3,bolt.new,Full-stack apps from a single prompt,Ship apps at AI speed,https://bolt.new,Ship
+4,Perplexity AI,Instant cited answers for any technical question,Research anything instantly,https://perplexity.ai,Research
+5,There's An AI For That,Ranked index of every AI tool by category,Discover the best AI for any job,https://theresanaiforthat.com,Discover
+6,freeCodeCamp,World-class structured courses — completely free,Learn any dev skill free,https://freecodecamp.org,Learn
+7,Apify Store,Scrape any website — no code needed,Extract any data from the web,https://apify.com/store,Data
+8,Kimi Agent Swarm,Run 100 parallel AI agents simultaneously,Parallelise any complex task,https://www.kimi.com/agent-swarm,AI Tools
+9,n8n.io,Open-source workflow automation with full control,Automate your entire life,https://n8n.io,Automate
+10,Hugging Face,Every open-source AI model in one place,Access any AI model free,https://huggingface.co,AI Tools
